@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mar-stack
-- 👀 I love traveling
+- 👀 I love traveling and gardens
 - 🌱 I’m currently learning Java (is very hard).
 - 💞️ I’m looking to collaborate on projects related to the course.
 - 📫 How to reach me on slack my name is Marlene Rodriguez, Cheers!!!
